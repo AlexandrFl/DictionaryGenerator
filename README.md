@@ -1,0 +1,3 @@
+# DictionaryGenerator
+
+Генератор словаря
